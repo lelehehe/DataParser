@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace DataParser
 {
@@ -10,7 +12,10 @@ namespace DataParser
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(File.Exists("data.json"));
+            var result = JsonConvert.DeserializeObject<Rootobject>(File.ReadAllText("data.json"));
             Console.WriteLine("hello");
+             
         }
     }
 
