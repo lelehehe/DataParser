@@ -1,0 +1,430 @@
+﻿{
+  "serverUtcTime": "2017-05-08T04:27:20.8123922Z",
+  "token": "apH+qR38Jzevp9KkK65jHEWDH5PSx1nERbRHFnROyNx1djAk+HhOax/HCgA9N/+1lYVqwwDX2UsZcQOjie2eWZEZ9QxRC2M9VAxnLPIyW9SLhcUd/BOikKKVkQM4jETynfqTW+NNMP7DRB9ueTxol68wFuUh/mKSnwOO+34oTXp9g6ZsVRStRESjLiBmbHAtXqmIsUgI/tg3LRrHbcO7DNrjD0ytjSwOdqGajgi0fh6saUwupbHN/+HlZeu+DC2IBS3C3QNunSTdkXABX6beRlTav0GuS0P5333jtbLQ7lGEKlqwC762RCYLA2bNlWcYfVwUneBjoKnxD2YUfEXhIAsVOJdNM6wE221M9UrTjzqQA=",
+  "status": 200,
+  "result": {
+    "totalRows": 28598,
+    "data": [
+      {
+        "ships": [
+          "Celebrity Solstice"
+        ],
+        "businessRegions": [
+          "US & Canada"
+        ],
+        "company": "Celebrity Cruises",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6965793_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "United States",
+          "Canada"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "North America"
+        ],
+        "endDate": "2017-05-17T00:00:00Z",
+        "endLocation": "{\"City\":\"Vancouver\",\"State\":\"British Columbia\",\"Country\":\"Canada\",\"StateAbbr\":\"BC\"}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Kailua Kona",
+          "Vancouver",
+          "Hilo",
+          "Honolulu",
+          "Day-at-Sea",
+          "Lahaina"
+        ],
+        "name": "Hawaii",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Honolulu\",\"State\":\"Hawaii\",\"Country\":\"United States\",\"StateAbbr\":\"HI\"}",
+        "travelLength": "11 days",
+        "id": "14410634",
+        "title": "Hawaii",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Seabourn Odyssey"
+        ],
+        "businessRegions": [
+          "US & Canada",
+          "Asia Pacific",
+          "Latin America & Caribbean"
+        ],
+        "company": "Seabourn ",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6965851_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Italy",
+          "Monaco",
+          "Spain",
+          "France"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2017-05-17T00:00:00Z",
+        "endLocation": "{\"City\":\"Barcelona\",\"State\":\"Cataluna\",\"Country\":\"Spain\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Ciudadela",
+          "St. Tropez",
+          "Barcelona",
+          "Santa Margherita",
+          "Livorno",
+          "Majorca",
+          "Le Lavandou",
+          "Marseille",
+          "Monte Carlo",
+          "San Remo",
+          "Scenic Cruising"
+        ],
+        "name": "Rivieras and Spanish Splendors",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Monte Carlo\",\"State\":\"Monaco\",\"Country\":\"Monaco\",\"StateAbbr\":null}",
+        "travelLength": "11 days",
+        "id": "15158904",
+        "title": "Rivieras and Spanish Splendors",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "MS Fram"
+        ],
+        "businessRegions": [
+          "US & Canada"
+        ],
+        "company": "Hurtigruten",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/15443810_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Norway",
+          "Germany"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2017-05-19T00:00:00Z",
+        "endLocation": "{\"City\":\"Tromso\",\"State\":\"Troms\",\"Country\":\"Norway\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Atløy, Norway",
+          "Bud",
+          "Frøya, Norway",
+          "Haugesund",
+          "Ulsteinvik",
+          "Gryllefjord",
+          "North Sea (Cruising)",
+          "Træna, Norway",
+          "Trollfjord",
+          "Vikingen",
+          "Bjørnsund, Norway",
+          "Bremerhaven",
+          "Værøy, Lofoten, Norway",
+          "Vega Island",
+          "Dalsfjorden, Norway",
+          "Tromso",
+          "Værlandet, Norway"
+        ],
+        "name": "Norway – Off The Beaten Track",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Bremerhaven\",\"State\":\"Niedersachsen\",\"Country\":\"Germany\",\"StateAbbr\":null}",
+        "travelLength": "12 days",
+        "id": "15463435",
+        "title": "Norway – Off The Beaten Track",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Celebrity Eclipse"
+        ],
+        "businessRegions": [
+          "US & Canada"
+        ],
+        "company": "Celebrity Cruises",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6965785_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Iceland",
+          "United Kingdom",
+          "Guernsey",
+          "Ireland"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2017-05-19T00:00:00Z",
+        "endLocation": "{\"City\":\"Southampton\",\"State\":\"Southampton\",\"Country\":\"United Kingdom\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Saint Peter Port",
+          "Day-at-Sea",
+          "Reykjavík",
+          "Cobh",
+          "Akureyri",
+          "Belfast",
+          "Dublin",
+          "Southampton"
+        ],
+        "name": "2017 Ireland and Iceland President's Cruise",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Southampton\",\"State\":\"Southampton\",\"Country\":\"United Kingdom\",\"StateAbbr\":null}",
+        "travelLength": "13 days",
+        "id": "15186190",
+        "title": "2017 Ireland and Iceland President's Cruise",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Celebrity Millennium"
+        ],
+        "businessRegions": [
+          "US & Canada"
+        ],
+        "company": "Celebrity Cruises",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6965788_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Japan",
+          "Russia",
+          "Canada"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "Europe",
+          "North America",
+          "Asia"
+        ],
+        "endDate": "2017-05-21T00:00:00Z",
+        "endLocation": "{\"City\":\"Vancouver\",\"State\":\"British Columbia\",\"Country\":\"Canada\",\"StateAbbr\":\"BC\"}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Day-at-Sea",
+          "International Dateline (Crossing)",
+          "Hakodate",
+          "Muroran",
+          "Petropavlovsk-Kamchatskiy",
+          "Vancouver",
+          "Yokohama"
+        ],
+        "name": "Japan and Bering Sea",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Yokohama\",\"State\":\"Kanto\",\"Country\":\"Japan\",\"StateAbbr\":null}",
+        "travelLength": "15 days",
+        "id": "14419795",
+        "title": "Japan and Bering Sea",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Sun Princess"
+        ],
+        "businessRegions": [
+          "US & Canada"
+        ],
+        "company": "Princess Cruises",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6965869_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "New Caledonia",
+          "Vanuatu",
+          "Fiji",
+          "Australia"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "South Pacific"
+        ],
+        "endDate": "2017-05-21T00:00:00Z",
+        "endLocation": "{\"City\":\"Sydney\",\"State\":\"New South Wales\",\"Country\":\"Australia\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Day-at-Sea",
+          "Isle of Pines",
+          "Savusavu, Vanua Levu",
+          "Suva",
+          "Dravuni",
+          "Lautoka",
+          "Nouméa",
+          "Mystery Island",
+          "Sydney"
+        ],
+        "name": "Fiji and South Pacific",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Sydney\",\"State\":\"New South Wales\",\"Country\":\"Australia\",\"StateAbbr\":null}",
+        "travelLength": "15 days",
+        "id": "15174688",
+        "title": "Fiji and South Pacific",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Seabourn Odyssey"
+        ],
+        "businessRegions": [
+          "US & Canada",
+          "Asia Pacific",
+          "Latin America & Caribbean"
+        ],
+        "company": "Seabourn ",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6965851_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Spain",
+          "Monaco",
+          "France",
+          "Italy"
+        ],
+        "departureMonths": [
+          "May 2017"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2017-05-24T00:00:00Z",
+        "endLocation": "{\"City\":\"Monte Carlo\",\"State\":\"Monaco\",\"Country\":\"Monaco\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Barcelona",
+          "Ciudadela",
+          "Porto Venere",
+          "Santa Margherita",
+          "Livorno",
+          "Majorca",
+          "Nice",
+          "Palamós",
+          "San Remo",
+          "Marseille",
+          "Monte Carlo",
+          "Portoferraio",
+          "Scenic Cruising",
+          "Bonifacio",
+          "Le Lavandou",
+          "Sète",
+          "St. Tropez"
+        ],
+        "name": "Riviera and Spanish Gems",
+        "startDate": "2017-05-07T00:00:00Z",
+        "startLocation": "{\"City\":\"Monte Carlo\",\"State\":\"Monaco\",\"Country\":\"Monaco\",\"StateAbbr\":null}",
+        "travelLength": "18 days",
+        "id": "15158903",
+        "title": "Riviera and Spanish Gems",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Queen Mary 2"
+        ],
+        "company": "Cunard Line",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6966076_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Germany",
+          "United Kingdom"
+        ],
+        "departureMonths": [
+          "August 2017"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2017-08-21T00:00:00Z",
+        "endLocation": "{\"City\":\"Hamburg\",\"State\":\"Hamburg\",\"Country\":\"Germany\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Southampton",
+          "Day-at-Sea",
+          "Hamburg"
+        ],
+        "name": "Hamburg Short Break",
+        "startDate": "2017-08-19T00:00:00Z",
+        "startLocation": "{\"City\":\"Southampton\",\"State\":\"Southampton\",\"Country\":\"United Kingdom\",\"StateAbbr\":null}",
+        "travelLength": "3 days",
+        "id": "15242059",
+        "title": "Hamburg Short Break",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Queen Victoria"
+        ],
+        "company": "Cunard Line",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6966076_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "Germany",
+          "United Kingdom"
+        ],
+        "departureMonths": [
+          "June 2018"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2018-06-24T00:00:00Z",
+        "endLocation": "{\"City\":\"Hamburg\",\"State\":\"Hamburg\",\"Country\":\"Germany\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Southampton",
+          "Day-at-Sea",
+          "Hamburg"
+        ],
+        "name": "Southampton to Hamburg",
+        "startDate": "2018-06-22T00:00:00Z",
+        "startLocation": "{\"City\":\"Southampton\",\"State\":\"Southampton\",\"Country\":\"United Kingdom\",\"StateAbbr\":null}",
+        "travelLength": "3 days",
+        "id": "15364612",
+        "title": "Southampton to Hamburg",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      },
+      {
+        "ships": [
+          "Queen Mary 2"
+        ],
+        "company": "Cunard Line",
+        "defaultImageUrl": "https://media.virtuoso.com/m/Images/Brochures/6966076_2_0.jpg?apiKey=6481C6BD9CE14F4EA5A1927FCB5E4823",
+        "countries": [
+          "United Kingdom",
+          "Germany"
+        ],
+        "departureMonths": [
+          "October 2018"
+        ],
+        "destinationRegions": [
+          "Europe"
+        ],
+        "endDate": "2018-10-16T00:00:00Z",
+        "endLocation": "{\"City\":\"Hamburg\",\"State\":\"Hamburg\",\"Country\":\"Germany\",\"StateAbbr\":null}",
+        "hasVirtuosoVoyages": false,
+        "locations": [
+          "Day-at-Sea",
+          "Hamburg",
+          "Southampton"
+        ],
+        "name": "Hamburg Short Break",
+        "startDate": "2018-10-14T00:00:00Z",
+        "startLocation": "{\"City\":\"Southampton\",\"State\":\"Southampton\",\"Country\":\"United Kingdom\",\"StateAbbr\":null}",
+        "travelLength": "3 days",
+        "id": "15366590",
+        "title": "Hamburg Short Break",
+        "hasPromotions": false,
+        "hasVirtuosoBenefits": false
+      }
+    ]
+  }
+}
